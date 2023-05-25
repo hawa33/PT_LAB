@@ -1,5 +1,5 @@
 # PT_LAB
-#Question Collection:
+Question Collection:
 # Lab-1
 #WAP to ask user a number and print if it is a positive.
 #WAP to ask user a number and check whether it is even or odd.
