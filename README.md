@@ -1,4 +1,3 @@
-# PT_LAB
 Question Collection:
 # Lab-1
 #WAP to ask user a number and print if it is a positive.
