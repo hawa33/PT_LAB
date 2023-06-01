@@ -1,0 +1,27 @@
+public class Car {
+    String brand;
+    String color;
+    int year;
+
+    void start() {
+        System.out.println("The " + brand + " car has started.");
+    }
+    void drive() {
+        System.out.println("The " + brand + " car is driving.");
+    }
+    void stop() {
+        System.out.println("The " + brand + " car has stopped.");
+    }
+    public static void main(String[] args) {
+        // Createing object of the Car class
+        Car myCar = new Car();
+        // Set the properties of the car object
+        myCar.brand = "Toyota";
+        myCar.color = "Red";
+        myCar.year = 2022;
+        // Call the car object
+        myCar.start();
+        myCar.drive();
+        myCar.stop();
+    }
+}
